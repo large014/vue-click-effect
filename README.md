@@ -1,6 +1,6 @@
 # vue-click-effect
 ボタンエフェクト  
-[DEMO](https://large014.github.io/vue-camera-switch/)
+[DEMO](https://large014.github.io/vue-click-effect/)
 ## Install
 ```
 ./src/components/Ripple.vue をコピー
@@ -29,7 +29,7 @@ export default {
   </div>
 </template>
 ```
-プロパティ
+プロパティ  
 [circleC] エフェクトの色を設定 rgba()形式
 
 ### Compiles and hot-reloads for development
